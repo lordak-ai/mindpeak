@@ -1,0 +1,9 @@
+{
+  "name": "MindPeak — тренажёр памяти",
+  "short_name": "MindPeak",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101326",
+  "theme_color": "#111426",
+  "description": "Бесплатные игры для тренировки памяти"
+}
